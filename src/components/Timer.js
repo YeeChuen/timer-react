@@ -1,5 +1,10 @@
 import React, { useEffect, useState, useRef } from "react";
 
+/**
+ * implement timer as per:
+ * https://www.evernote.com/shard/s652/client/snv?isnewsnv=true&noteGuid=c307ecab-c446-a4ec-0b54-e5e741d18bef&noteKey=sUVvf3VHUXYXHNjKVawXDHF_4m1la3lua31Uq7z_mNM2Y_L6QDPrwgisZA&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs652%2Fsh%2Fc307ecab-c446-a4ec-0b54-e5e741d18bef%2FsUVvf3VHUXYXHNjKVawXDHF_4m1la3lua31Uq7z_mNM2Y_L6QDPrwgisZA&title=Countdown%2Btimer
+ */
+
 const Timer = () => {
   const [time, setTime] = useState({
     minutes: 0,
