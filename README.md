@@ -2,6 +2,24 @@
 
 This is a timer application, user can set a desired timer, and start the countdown by clicking "start", useful for baking, as well as for doing planks while working out. Incredibly versitile app.
 
+## Installation
+1. clone the github repo
+```
+git clone https://github.com/YeeChuen/timer-react
+```
+
+2. install node packages
+```
+cd ./timer-react
+npm install
+```
+
+3. start the application
+```
+npm start
+```
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
