@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Timer App
+
+This is a timer application, user can set a desired timer, and start the countdown by clicking "start", useful for baking, as well as for doing planks while working out. Incredibly versitile app.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
